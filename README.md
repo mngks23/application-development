@@ -1,6 +1,6 @@
 # application-development
 My new repository
-# My Favorite Song: Better Days by Franco
+# My Favorite Song: Aurora Sunrise by Franco
 ## About the Song
 **Aurora Sunrise** is a song by the Filipino rock band **FRANCO**. It is one of my favorite songs because of its relaxing melody, meaningful sound, and unique alternative rock style. The song gives me a peaceful feeling and makes me appreciate the beauty of music.
 ## Song Details
